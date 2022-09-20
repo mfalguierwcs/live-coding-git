@@ -1,0 +1,10 @@
+.my-super-title {
+  font-size: 3rem;
+  color: red;
+}
+
+#wilderArea {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid grey
+}
